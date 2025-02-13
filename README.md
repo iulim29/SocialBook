@@ -9,12 +9,19 @@ So, the project has come to an end.
 
 What I managed to do:
 
--better understanding of how Django works /n
--better understandinging of Git and its conflicts /n
+-better understanding of how Django works 
+
+-better understandinging of Git and its conflicts 
+
+#
 
 What is this project? It's a very basic copy a social media site ( eg. Instagram).
-You can:/n
--create and customize your profile;/n
--upload photos;/n
--follow other users, like and even download their posts;/n
+
+You can:
+-create and customize your profile;
+
+-upload photos;
+
+-follow other users, like and even download their posts;
+
 -search them and get them suggested
